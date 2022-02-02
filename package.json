@@ -18,6 +18,8 @@
     "supertest": "^6.2.2"
   },
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "pg": "^8.7.1",
+    "sequelize": "^6.15.0"
   }
 }
